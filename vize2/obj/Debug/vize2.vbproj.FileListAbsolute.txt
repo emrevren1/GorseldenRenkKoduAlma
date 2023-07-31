@@ -1,0 +1,50 @@
+c:\users\ultraslan\documents\visual studio 2015\Projects\vize2\vize2\bin\Debug\vize2.exe.config
+c:\users\ultraslan\documents\visual studio 2015\Projects\vize2\vize2\obj\Debug\vize2.vbprojResolveAssemblyReference.cache
+c:\users\ultraslan\documents\visual studio 2015\Projects\vize2\vize2\obj\Debug\vize2.Form1.resources
+c:\users\ultraslan\documents\visual studio 2015\Projects\vize2\vize2\obj\Debug\vize2.Resources.resources
+c:\users\ultraslan\documents\visual studio 2015\Projects\vize2\vize2\obj\Debug\vize2.vbproj.GenerateResource.Cache
+c:\users\ultraslan\documents\visual studio 2015\Projects\vize2\vize2\bin\Debug\vize2.exe
+c:\users\ultraslan\documents\visual studio 2015\Projects\vize2\vize2\bin\Debug\vize2.pdb
+c:\users\ultraslan\documents\visual studio 2015\Projects\vize2\vize2\bin\Debug\vize2.xml
+c:\users\ultraslan\documents\visual studio 2015\Projects\vize2\vize2\obj\Debug\vize2.exe
+c:\users\ultraslan\documents\visual studio 2015\Projects\vize2\vize2\obj\Debug\vize2.xml
+c:\users\ultraslan\documents\visual studio 2015\Projects\vize2\vize2\obj\Debug\vize2.pdb
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\vize2\vize2\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\vize2\vize2\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\vize2\vize2\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\vize2\vize2\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\vize2\vize2\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\vize2\vize2\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\vize2\vize2\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\vize2\vize2\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\UltrAslan\documents\visual studio 2015\Projects\vize2\vize2\obj\Debug\vize2.Form2.resources
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\bin\Debug\vize2.exe.config
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.exe
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.xml
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.pdb
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\bin\Debug\vize2.exe
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\bin\Debug\vize2.pdb
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\bin\Debug\vize2.xml
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\bin\Debug\Xamarin.Forms.Core.dll
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\bin\Debug\Xamarin.Forms.Platform.dll
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\bin\Debug\Xamarin.Forms.Core.pdb
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\bin\Debug\Xamarin.Forms.Core.xml
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.vbprojResolveAssemblyReference.cache
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.Form1.resources
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.Form2.resources
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.Resources.resources
+F:\ \PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.vbproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.vbproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.Form1.resources
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.Form2.resources
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.Resources.resources
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.vbproj.GenerateResource.cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.exe
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.xml
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER\grafikler çizimler rgb\vize2\vize2\obj\Debug\vize2.pdb
